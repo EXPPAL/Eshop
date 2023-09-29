@@ -1,7 +1,3 @@
-<a name="readme-top"></a>
-# Eshop
-Ecommerce store
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
