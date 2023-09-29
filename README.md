@@ -1,5 +1,3 @@
-<!-- PROJECT LOGO -->
-<br />
 <div align="center">
   <a href="https://github.com/EXPPAL/Eshop">
     <h1></h1>
@@ -34,7 +32,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![mobile](https://github.com/EXPPAL/pre-MLB/blob/main/splash.jpg)
+![mobile](https://github.com/EXPPAL/eshop/blob/main/Eshop.png)
 
 This project deals with developing a Virtual website ‘E-commerce Website’. It provides the user with a list of the various products available for purchase in the store. For the convenience of online shopping, a shopping cart is provided to the user. After the selection of the goods, it is sent for the order confirmation process. The system is implemented using Python's web framework Django.
 
